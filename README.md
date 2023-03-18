@@ -9,4 +9,4 @@ The main **goals** are:
 
 > Everything that I'm learning is something almost new to me
 
-For example I can embed a piece of [code] (https://gist.github.com/karolintxu/55530ec5e2301f10a5fc07357a761f62)
+For example I can embed a piece of [code that I can share](https://gist.github.com/karolintxu/55530ec5e2301f10a5fc07357a761f62)
